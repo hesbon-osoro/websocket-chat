@@ -21,4 +21,5 @@ cd websocket-chat && yarn
 yarn start
 
 # Go to the index.html then open it by the Live Server
+# Copy the url to other browser's tab and experience the realtime chat capabilities
 ```
